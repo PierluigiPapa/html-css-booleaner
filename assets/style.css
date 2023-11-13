@@ -27,6 +27,16 @@ h4 {
     color: grey
 }
 
+span {
+    background-color: yellow;
+}
+
 p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul{
     margin-bottom: 40px;
+    padding-left: 20px;
 }
