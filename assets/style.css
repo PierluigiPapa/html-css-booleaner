@@ -48,7 +48,8 @@ table {
 }
 
 th {
-    padding: 10px;
+    padding: 5px;
+   
 }
 
 thead {
@@ -57,9 +58,40 @@ thead {
 }
 
 td {
-    padding: 10px;
+    padding: 5px;
 }
 
 .dispari {
     background-color: rgb(178, 230, 242);
+}
+
+#footer1 {
+    background-image: url(../img/monitor.jpg);
+    height: 70px;
+    margin-top: 75px;
+    margin-left: 10px;
+}
+
+.immaginiFooter{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 200px;
+    
+}
+#footer1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#footer2{
+    background-image: url(../img/graph.jpg);
+}
+
+.immaginiFooter h3{
+color: white;
+font-weight: bold; 
+}
+
+footer h4{
+    color: grey;
+    margin: 20px 0 20px 0;
 }
