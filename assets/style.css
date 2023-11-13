@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 150px;
+    background-image: url("../img/pattern.png");
+    background-color: lightskyblue;
+}
+
+#banner {
+    height: 70px;
+    margin-top: 75px;
+    margin-left: 10px;
+}
