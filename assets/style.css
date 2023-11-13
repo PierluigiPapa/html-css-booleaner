@@ -49,16 +49,22 @@ table {
 
 th {
     padding: 5px;
-   
+    width: 33%;
+}
+
+tr {
+    padding: 5px;
+    width: 33%;
+}
+
+td {
+    padding: 5px;
+    width: 33%;
 }
 
 thead {
     background-color: rgb(26, 170, 230);
     color: white
-}
-
-td {
-    padding: 5px;
 }
 
 .dispari {
