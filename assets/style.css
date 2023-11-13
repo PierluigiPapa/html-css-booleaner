@@ -13,3 +13,16 @@ header {
     margin-top: 75px;
     margin-left: 10px;
 }
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 255) 
+}
+
+h3 {
+    color: grey
+}
+
+h4 {
+    color: grey
+}
